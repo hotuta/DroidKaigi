@@ -4,6 +4,6 @@ Seleniumを利用してセッション動画一覧から動画を開きタイト
 
 ##環境
 
-Ruby
-Windows10
+Ruby  
+Windows10  
 Chrome(ChromeDriver)
